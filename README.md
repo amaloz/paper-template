@@ -1,5 +1,7 @@
 # Paper Template for Crypto Papers #
 
+Fork of Martin Albrecht's paper template repo: https://bitbucket.org/malb/paper-template
+
 ## Contents ##
 
 * [crypto.bib](http://cryptobib.di.ens.fr/) for the bibliographies
